@@ -1,0 +1,17 @@
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\bin\Debug\net6.0-windows\Temperature c to p.exe
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\bin\Debug\net6.0-windows\Temperature c to p.deps.json
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\bin\Debug\net6.0-windows\Temperature c to p.runtimeconfig.json
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\bin\Debug\net6.0-windows\Temperature c to p.dll
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\bin\Debug\net6.0-windows\ref\Temperature c to p.dll
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\bin\Debug\net6.0-windows\Temperature c to p.pdb
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.csproj.AssemblyReference.cache
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature_c_to_p.Form1.resources
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.csproj.GenerateResource.cache
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.AssemblyInfoInputs.cache
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.AssemblyInfo.cs
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.csproj.CoreCompileInputs.cache
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.dll
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\ref\Temperature c to p.dll
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.pdb
+C:\Users\MAKE\Documents\GitHub\halloworld\Temperature c to p\Temperature c to p\obj\Debug\net6.0-windows\Temperature c to p.genruntimeconfig.cache
